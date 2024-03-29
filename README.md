@@ -1,4 +1,4 @@
-# Freezegun Example Code
+# Example Code
 This repo contains the sample code for the article - **Mocking vs Patching vs Stubbing**
 
 # Requirements
